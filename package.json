@@ -1,0 +1,13 @@
+{
+  "name": "funnylog",
+  "version": "1.0.0",
+  "description": "Funny log for nodejs",
+  "main": "index.js",
+  "repository": "https://github.com/rodolfomedeiros/funnylog",
+  "author": "Rodolfo Medeiros",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
