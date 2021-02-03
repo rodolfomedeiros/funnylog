@@ -8,7 +8,7 @@ npm install @rodolfomedeiros/funnylog --save
 
 ## Example
 ~~~javascript
-const funnylog = require('funnylog');
+const funnylog = require("@rodolfomedeiros/funnylog");
 
 const log = funnylog({delay: 50, randomized: true});
 
