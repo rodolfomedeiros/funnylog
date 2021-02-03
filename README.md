@@ -3,7 +3,7 @@
 ## Using
 
 ~~~prompt
-npm install funnylog --save
+npm install @rodolfomedeiros/funnylog --save
 ~~~
 
 ## Example

@@ -1,5 +1,5 @@
 {
-  "name": "funnylog",
+  "name": "@rodolfomedeiros/funnylog",
   "version": "0.1.0",
   "description": "Funny log for nodejs",
   "main": "index.js",
